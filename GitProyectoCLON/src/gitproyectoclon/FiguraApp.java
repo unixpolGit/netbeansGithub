@@ -1,4 +1,4 @@
-/*
+/* MODIFICADO EN GITHUB
 Se va a diseñar una aplicación que rellenará un vector de figuras (ej. 4
 figuras) con círculos y rectángulos
  */
